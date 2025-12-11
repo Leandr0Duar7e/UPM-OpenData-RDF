@@ -1,3 +1,7 @@
+## Project Overview
+
+Main project for the **Open Data and Knowledge Graphs** course at UPM. We ingested a large GTFS CSV feed, defined a quiz-style application concept, designed an ontology, created RML mappings, generated RDF data, and ran SPARQL queries to show the app’s feasibility.
+
 ## Group Members
 
 - **Emanuele Emilio Alberti**  
