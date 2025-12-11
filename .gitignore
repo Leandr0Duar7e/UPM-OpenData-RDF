@@ -12,3 +12,5 @@ rdf/madrid-bus-data-with-links.nt
 rdf/query_runner.py
 
 .venv/
+
+.DS_Store
